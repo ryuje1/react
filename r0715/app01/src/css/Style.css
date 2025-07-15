@@ -1,0 +1,20 @@
+label{width:70px; display:inline-block; text-align:left;}
+
+.s-form{
+    width:400px; height:250px;
+    border:1px solid black;
+    padding:10px;
+    margin: 20px auto;
+}
+
+.s-btn{width:100px; height:40px; margin-top: 10px;}
+
+.s-list{
+    display:flex; width:800px; height:40px; 
+    border:1px solid black; border-radius:10px;
+    align-items:center; text-align:center; margin:10px auto;
+}
+
+.s-no{width:100px;}
+.s-title{width:500px;}
+.s-year{width:200px;}
